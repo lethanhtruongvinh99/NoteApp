@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TESTNOTEAPP</string>
+    <string name="hint_tag">Tag</string>
+    <string name="hint_content">Content</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_search">Search by Title or Tag</string>
+    <string name="default_tit">NewNote</string>
+    <string name="default_content">Example</string>
+    <string name="default_tag">Default</string>
+    <string name="add_btn">ADD</string>
+    <string name="save_btn">SAVE</string>
+    <string name="align_left">ALIGNLEFT</string>
+    <string name="align_center">CENTER</string>
+    <string name="align_right">ALIGNRIGHT</string>
+</resources>
