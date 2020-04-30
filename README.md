@@ -8,3 +8,7 @@ class Zhangrong{
 +myName()
 }
 ```
+```mermaid
+flow
+A(Vinh) -> B|Test|
+```
